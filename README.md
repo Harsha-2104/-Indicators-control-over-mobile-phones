@@ -31,7 +31,7 @@ This project simulates a vehicle indicator system using an Arduino Uno and Bluet
 - `light_indicator.ino`: This is the arduino file used to simulate the system using proteus.
 
 ## Block diagram
-
+- ![Block Diagram](Block_Diagram.jpg)
 
 ## How to Run
 1. Open the `.ino` file in Arduino IDE and compile.
