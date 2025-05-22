@@ -42,4 +42,4 @@ This project simulates a vehicle indicator system using an Arduino Uno and Bluet
 6. Try to run the code in real hardware by making similar connections and using bluetooth instead of virtual terminal.
 
 ## Video presentation 
-- ![Demo](https://drive.google.com/file/d/1V2bc1kCFvjimp-JyOhd-8EBMjLKBoIv1/view?usp=drivesdk)
+-[Demo](https://drive.google.com/file/d/1V2bc1kCFvjimp-JyOhd-8EBMjLKBoIv1/view?usp=drivesdk)
